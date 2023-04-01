@@ -47,16 +47,28 @@ Console -> Configuration -> Settings -> Poller -> Poller Type -> Ganti jadi spin
 ***Tambahkan Mikrotik***
 Aktifkan SNPM DI Mikrotik, kasih akses read aja ya
 
-Di Cacti
+
+
+***Di Cacti***
+
 Create -> New Device
+
 Description : Isi Bebas
+
 Hostname : Isi IP Public Mikrotik
+
 Device Template : Net-SNMP Device
+
 Monitori Device : Enabel
+
 Ping Warning : 400
+
 Ping Alert : 400
+
 
 di SNMP Options sesuaikan dengan yang ada dimikrotik
 
+
 Downed Device Detection bisa piling Ping ICMP, Ping UDP, Ping TCP, atau SNMP Uptime
+
 Lalu save

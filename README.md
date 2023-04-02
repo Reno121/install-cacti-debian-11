@@ -2,16 +2,16 @@
 
 
 ```
-apt update && apt upgrade
+apt update && apt upgrade -y
 ```
 ```
-apt install sudo unzip
+apt install sudo unzip -y
 ```
 ```
 dpkg-reconfigure tzdata
 ```
 ```
-apt-get install cacti cacti-spine
+apt-get install cacti cacti-spine -y
 ```
 ```
 cd /usr/share/cacti/site/plugins
@@ -45,6 +45,7 @@ Console -> Configuration -> Settings -> Poller -> Poller Type -> Ganti jadi spin
 ```
 
 ***Tambahkan Mikrotik***
+
 Aktifkan SNPM DI Mikrotik, kasih akses read aja ya
 
 

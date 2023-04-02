@@ -35,6 +35,16 @@ unzip v1.5.2.zip
 mv v1.5.2.zip thold
 ```
 
+Login cacti http://ip/cacti
+
+pake password default
+
+admin
+
+admin
+
+
+
 ***Aktif kan plugin di***
 ```
 Configuration -> Plugins

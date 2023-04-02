@@ -8,10 +8,10 @@ apt update && apt upgrade
 apt install sudo unzip
 ```
 ```
-apt-get install cacti cacti-spine
-```
-```
 dpkg-reconfigure tzdata
+```
+```
+apt-get install cacti cacti-spine
 ```
 ```
 cd /usr/share/cacti/site/plugins

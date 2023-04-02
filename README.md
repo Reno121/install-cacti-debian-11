@@ -69,6 +69,6 @@ Ping Alert : 400
 di SNMP Options sesuaikan dengan yang ada dimikrotik
 
 
-Downed Device Detection bisa piling Ping ICMP, Ping UDP, Ping TCP, atau SNMP Uptime
+Downed Device Detection bisa pilih Ping ICMP, Ping UDP, Ping TCP, atau SNMP Uptime
 
 Lalu save

@@ -7,6 +7,10 @@ apt update && apt upgrade -y
 ```
 apt install sudo unzip -y
 ```
+
+
+
+***Setting Time Zone Asia Jakarta untuk WIB***
 ```
 dpkg-reconfigure tzdata
 ```

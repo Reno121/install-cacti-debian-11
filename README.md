@@ -36,7 +36,7 @@ wget https://github.com/Cacti/plugin_thold/archive/refs/tags/v1.5.2.zip
 unzip v1.5.2.zip
 ```
 ```
-mv v1.5.2.zip thold
+mv v1.5.2 thold
 ```
 
 Login cacti http://ip/cacti
